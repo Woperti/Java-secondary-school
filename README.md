@@ -47,9 +47,26 @@
 - Manejo de eventos y ciclo de vida de una actividad
 - Consumo de APIs REST en Android
 
+### <a name="evaluaciones"></a> Evaluaciones
+- Parcial 1
+  Tareas: 
+  Actividades en clase: 
+  Examen: 30%
+  
+  Ejercicios: 
+   
 ### <a name="java-dp"></a> Java Design Patterns
 - Principios de diseño de software
 - Patrón Singleton
 - Patrón Factory
 - Patrón MVC
 - Otros patrones comunes en Java
+
+### <a name="enlaces"></a> Enlaces
+- [IDE Prueba](https://www.jetbrains.com/idea/download/?section=mac) 
+- [Trello](https://trello.com)
+- [Github](https://github.com)
+- [Gitlab](https://gitlab.com/users/sign_up)
+- [Bitbucket](https://id.atlassian.com/login?prompt=login&continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignout%2F) 
+
+
